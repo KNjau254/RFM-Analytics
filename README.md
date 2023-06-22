@@ -1,6 +1,6 @@
 # RFM-Analytics
 In this Repo, I used Python to analyze the Recency, Frequency and Monetary value in order to gain insights into customer, understand their behavior and segment them.
-Below are is step by step process I used in conductin the analysis:
+Below is step by step process I used in conductin the analysis:
 Step I:
 I imported the necessary libraries, such as pandas, plotly, and datetime, to perform the RFM analysis.
 
